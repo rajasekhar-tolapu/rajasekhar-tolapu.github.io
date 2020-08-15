@@ -1,3 +1,3 @@
 ## Welcome to My personal Website
 
-# https://rajasekhar.tolapu.github.io
+# https://rajasekhar-tolapu.github.io
